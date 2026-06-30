@@ -2,3 +2,4 @@ google-adk
 streamlit
 python-dotenv
 pydantic
+litellm

@@ -1,4 +1,7 @@
 from google.adk.agents import Agent
+from google.adk.models import LiteLlm
+
+from agentforge.config import MODEL_NAME, OPENAI_API_BASE, OPENAI_API_KEY
 
 MANAGER_INSTRUCTION = """
 You are the Manager Agent inside AgentForge.
